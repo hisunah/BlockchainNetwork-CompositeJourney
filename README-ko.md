@@ -1,7 +1,7 @@
 *Read this in other languages: [English](README.md), [中国](README-cn.md).*
 # BlockchainNetwork-CompositeJourney
 
-## Build Your First Network (BYFN)
+## Build Your First Network (BYFN) - test
 
 블록체인 애플리케이션을 빌드하는 시리즈 중 첫 번째 과정에 오신 것을 환영합니다. **Part 1**에서는 상품 거래를 위한 하이퍼레저 컴포저(Hyperledger Composer) BNA (Business Network Archive) 파일을 생성하여 하이퍼레저 패브릭(Hyperledger Fabric)에 배포하는 방법을 다룹니다. 이 과정은 하이퍼레저 컴포저 샘플버전의 "Hello World"입니다.
 
